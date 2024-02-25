@@ -1,0 +1,36 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+section {
+	display: flex;
+}
+.king {
+	justify-content: center ;
+	align-items: center ;
+}
+.hakuna{
+	
+}
+.hakuna_text{
+	align-self: flex-end;
+	border-top:2px solid;
+	border-left:2px solid;
+
+	
+}
+.hakuna__poem p{
+	border-right:2px solid;
+	border-bottom:2px solid;
+	text-align: center;	
+	padding: 20px;
+}
+.hakuna_text,
+.hakuna__poem{
+margin: 20px;}
+.matata {
+ margin-bottom: -130px;
+}
+.greeting__q{
+	
+}
